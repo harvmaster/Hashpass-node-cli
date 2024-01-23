@@ -1,0 +1,21 @@
+{
+  "name": "hashpass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "copy-to-clipboard": "^3.3.1",
+    "prompt-sync": "^4.2.0",
+    "sha256": "^0.2.0"
+  },
+  "type": "module",
+  "bin": {
+    "hashpass": "./bin/hashpass.js"
+  }
+}
