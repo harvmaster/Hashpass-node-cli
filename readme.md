@@ -4,7 +4,7 @@ A simple command line tool for stateless password gneration
 # Installation
 ```bash
 git clone https://github.com/harvmaster/Hashpass-node-cli.git
-cd Hashpass-Node-Cli
+cd Hashpass-node-cli
 npm install
 npm install -g
 ```
