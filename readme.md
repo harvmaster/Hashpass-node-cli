@@ -16,7 +16,7 @@ hashpass facebook password
 ```
 Both service and secret are optional and can be added later.
 ```bash
-hashpss facebook
+hashpass facebook
 
 # responds with: 'hashpass secret:'  
 ```
