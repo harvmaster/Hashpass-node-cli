@@ -25,3 +25,10 @@ hashpass facebook
 # responds with: 'hashpass secret:'  
 ```
 
+# Wayland Systems
+Wayland systems will need to install wl-clipboard
+## Debian / Ubuntu
+```bash
+sudo apt install ws-clipboard
+```
+
