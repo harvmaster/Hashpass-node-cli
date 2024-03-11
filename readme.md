@@ -29,6 +29,6 @@ hashpass facebook
 Wayland systems will need to install wl-clipboard
 ## Debian / Ubuntu
 ```bash
-sudo apt install ws-clipboard
+sudo apt install wl-clipboard
 ```
 
